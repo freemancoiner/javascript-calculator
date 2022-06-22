@@ -1,0 +1,1 @@
+# program for a simple calculator where the user is prompted to choose an operator ( +, -, * or /) and two numbers. Then, the switch statement executes cases based on the user input.
